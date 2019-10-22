@@ -1,0 +1,12 @@
+COMET Payload Mass Model
+
+Mass: 4.978 kg
+
+
+Properties
+
+Envelope: X 124.0 mm, Y 124.0 mm, Z 425.0 mm
+Centre of Gravity: X 0.0 mm, Y 0.0 mm, Z 212.5 mm
+
+
+
